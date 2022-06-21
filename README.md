@@ -9,4 +9,4 @@ I'm Ahmad from iraq, and I do content on Design and Development. I really enjoy 
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-<img src="https://raw.githubusercontent.com/A7a-Kurdish/A7a-Kurdish/main/gif.gif" width="512" >
+<img src="https://raw.githubusercontent.com/A7a-Kurdish/A7a-Kurdish/main/gif.gif" width="1512" >
